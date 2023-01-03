@@ -103,7 +103,7 @@ const questions = [
     ]
   },
   {
-    question: 'Is Tim actually awesome?',
+    question: 'Is Javascript a Pain?',
     answers: [
       { text: 'No', correct: false },
       { text: 'YES', correct: true }
