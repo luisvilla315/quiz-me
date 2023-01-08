@@ -7,7 +7,7 @@
 - css
 - javascript 
 # usage 
-[View deployed application ](http://127.0.0.1:5500/module%204/index.html)
+[View deployed application ](https://luisvilla315.github.io/quiz-me/)
 
 ![Screenshot 2023-01-02 174228]https://luisvilla315.github.io/quiz-me/)
 
